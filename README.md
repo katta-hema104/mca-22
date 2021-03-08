@@ -12,16 +12,24 @@ Education
 
 2019-2022 (expected)
 :   **master Computer application**;  RVR&jc (MyTown)
-
+     :70%
     *Thesis title: deep Learning Approaches to the Self-Awesomeness
      Estimation Problem*
 
 2016-2019
-:   **BSC mpc**; JKC 
-    HomeTown (HomeTown)
+:   **BSC mpc**; JKC college
+:70%
+2014-2016 Intermediate
+:**MPC**;narayana college
+:77%
+:2013-2014
+:10TH high scholl
+:8.5%
+
 
     *Minor: Awesomeology*
 Skills
+------------
 -c
 -java
 -python
